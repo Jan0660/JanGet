@@ -212,5 +212,5 @@ return 0;
 public class Config
 {
     public string Token { get; set; } = "r";
-    public string Url { get; set; } = "https://janget.jan0660.dev";
+    public string Url { get; set; } = "https://janget.jan0660.dev/";
 }
